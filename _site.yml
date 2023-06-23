@@ -1,0 +1,20 @@
+name: "."
+title: "Home"
+description: |
+ staying modest in the modern world
+output_dir: "docs"
+theme: "my_theme.css"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Information"
+      href: Information.html
+    - text: "dress fits"
+      href: dress_fits.html
+output: distill::distill_article
+    
+      
+
+      
+    

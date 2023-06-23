@@ -1,0 +1,35 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-06-22T16:40:59+00:00"
+    },
+    {
+      "path": "dress_fits.html",
+      "title": "Dress fits",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-06-22T16:43:02+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "What's The Fit",
+      "author": [],
+      "contents": "\n\n          \n          \n          Home\n          \n          \n          Home\n          Information\n          dress fits\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              What’s The Fit\n            \n            \n              \n                \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Contact Us\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            About\n            This website was created in hopes to make living in a\n            modern world easier\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              What’s The Fit\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              \n              About\n              This website was created in hopes to make living in a\n              modern world easier\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2023-06-22T16:42:40+00:00"
+    },
+    {
+      "path": "Information.html",
+      "title": "Information",
+      "description": "A Page with more INFO\n",
+      "author": [],
+      "contents": "\nAdd more Info here\n\n\n\n",
+      "last_modified": "2023-06-22T16:41:00+00:00"
+    }
+  ],
+  "collections": []
+}

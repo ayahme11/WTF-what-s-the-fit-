@@ -1,0 +1,21 @@
+---
+title: "What's The Fit"
+image: "Images/p.jpg"
+links:
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: 'https://twitter.com/R_Girls_School target="_blank"'
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/R-Girls target="_blank"'
+  - label: '<i class="fas fa-envelope"></i> Contact Us'
+    url: "mail to:ayah.melloul_21@greenoak.bham.sch.uk"
+output:
+  postcards::trestles
+site: distill::distill_website
+--- 
+## About
+
+This website was created in hopes to make living in a modern world easier
+
+
+
+
