@@ -14,7 +14,7 @@ site: distill::distill_website
 --- 
 ## About
 
-This website was created in hopes to make living in a modern world easier
+This website was created in hopes to make living in a modern world easier✨❤
 
 
 
